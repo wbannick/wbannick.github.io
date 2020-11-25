@@ -8,7 +8,7 @@ title: "CV"
 
 ## YouGov (September 2017 - Present)	   
 ### Senior Data Scientist (April 2019 - Present)
-###  Data Scientist September (2017 - March 2019)
+###  Data Scientist (September 2017 - March 2019)
 - Managed projects with Innovations team and with YouGov Blue
 - Programmed surveys; cleaned, weighted and delivered survey data
 - Created models, analysis, and data visualizations with tools including broom, ggplot2, shiny, sf, and RMarkdown
@@ -57,7 +57,7 @@ title: "CV"
 - Mentor for middle school boys in East Palo Alto, CA
 
 # SKILLS
-- Proficient in R, Python, Unix, Github, Travis,  the tidyverse, sf, ggplot2, and RMarkdown
+- Proficient in R, Python, Github, Travis, the tidyverse, sf, ggplot2, and RMarkdown
 - Proficient with data management, data cleaning, data analysis, data visualization, web scraping, and pdf scraping
 - Experienced with voter-file and election data
 - Experienced with Shiny and QGIS,  SQL, C++, C, and  Java
