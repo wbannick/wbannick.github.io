@@ -15,9 +15,7 @@ title: "CV"
 - Served as line manager for a full time direct report and managed two cycles of interns and multiple contractors
 - Coordinated projects with teams in different countries
 - Built R packages and a REST API using Amazon API Gateway
-- Managed election data projects
-- Scraped election night data
-- Leveraged voter-file data
+- Managed election data projects and scraped election night data
 
 ## The Ghana Center For Democratic Development (Summer 2016)
 ### Intern
