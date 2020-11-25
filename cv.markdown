@@ -14,8 +14,8 @@ title: "CV"
 - Created models, analysis, and data visualizations with tools including broom, ggplot2, shiny, sf, and RMarkdown
 - Served as line manager for a full time direct report and managed two cycles of interns and multiple contractors
 - Coordinated projects with teams in different countries
-- Built a REST API using Amazon API Gateway and created R packages
-- Managed Election Data Projects
+- Built R packages and a REST API using Amazon API Gateway
+- Managed election data projects
 - Scraped election night data
 - Leveraged voter-file data
 
