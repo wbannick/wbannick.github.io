@@ -7,7 +7,7 @@ layout: default-pic
 
 # Hello!
 
-All view on this site are my own.
+All views on this site are my own.
 
 My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I love California and it will always be home. I currently live in the beautiful Washington DC.
 
