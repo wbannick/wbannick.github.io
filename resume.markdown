@@ -1,6 +1,6 @@
 ---
 layout: default-pic
-title: "CV"
+title: "Resume"
 ---
 
 
