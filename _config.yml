@@ -26,6 +26,7 @@ baseurl: ""
 url: "wbannick.github.io" 
 github_username:  wbannick
 
+
 # Build settings
 # No longer using the Gem. Gonna mess around and see if I can make some changes...
 #theme: jekyll-theme-minimal

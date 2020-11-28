@@ -1,6 +1,7 @@
 ---
 layout: default-pic
 title: "Resume"
+permalink : "/resume"
 ---
 
 
