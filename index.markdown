@@ -18,4 +18,4 @@ I am passionate about government accountability, racial equity, disability right
 
 I am a life-long nerd. I could talk for hours about comic books, Star Wars, or hip hop. I also enjoy weight training and _playing_ sports. My professional sports knowledge is out of date by about 10-15 years, but I love playing pick-up basketball, football, and frisbee (when there is no pandemic happening). And, I am striving to become a more versatile dunker.
 
-My personal relationships are very important to me. I am always working to become a better person, a better friend, and a better family member. I try to confront my privilege and mental health to continue to grow as person.
+My personal relationships are very important to me. I am always working to become a better person, a better friend, a better partner, and a better family member. I try to confront my privilege and mental health to continue to grow as person.
