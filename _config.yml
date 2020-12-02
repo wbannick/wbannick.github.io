@@ -26,6 +26,12 @@ baseurl: ""
 url: "wbannick.github.io" 
 github_username:  wbannick
 
+plugins:
+  - jekyll-sitemap
+
+#header_pages:
+# - resume.html
+# - pages.html
 
 # Build settings
 # No longer using the Gem. Gonna mess around and see if I can make some changes...
