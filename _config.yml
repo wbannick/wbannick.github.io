@@ -28,6 +28,9 @@ github_username:  wbannick
 
 plugins:
   - jekyll-sitemap
+  - jekyll-menu
+
+permalink: pretty
 
 #header_pages:
 # - resume.html
