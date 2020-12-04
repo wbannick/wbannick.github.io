@@ -11,10 +11,10 @@ For years music has been where I turned to for answers when life was difficult o
 
 ## December 04 2020
 ```
-Fall asleep until the dream comes
+"Fall asleep until the dream comes
 Motherf*** reality
 Happiness, I think I need some
-So I overdose on fantasy
+So I overdose on fantasy"
 - MGK
 ```
 
