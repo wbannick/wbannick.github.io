@@ -27,4 +27,4 @@ Same time I'm prayin' to God that everything works out at his colonoscopy"
 ```
 
 
-Disclaimer: None of the relationships or people discussed in the lyrics I chose to post are intended to reflect specific relationships or people in my life.
+<small>Disclaimer: None of the relationships or people discussed in the lyrics I chose to post are intended to reflect specific relationships or people in my life.</small>
