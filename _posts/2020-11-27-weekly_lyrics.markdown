@@ -9,6 +9,14 @@ permalink: /posts/weekly_lyrics/
 
 For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple bars that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
 
+## December 11 2020
+```
+"A lover not a fighter on the frontline with a poem
+Trying to write yourself a rifle, maybe sharpen up a song
+To fight the tanks and drones of you being alone"
+- Lupe Fiasco
+```
+
 ## December 04 2020
 ```
 "Fall asleep until the dream comes
