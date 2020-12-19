@@ -8,6 +8,7 @@ permalink: /posts/weekly_lyrics/
 ---
 
 For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple bars that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
+<br>
 
 ## December 18 2020
 ```
