@@ -16,7 +16,6 @@ For years music has been where I turned to for answers when life was difficult o
 The one with strength that's never gon' end
 The one with sense, take care of several grown men
 Pay they rent and then they trade on him"
-
 - Royce Da 5'9
 ```
 <br>
