@@ -10,6 +10,17 @@ permalink: /posts/weekly_lyrics/
 For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple bars that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
 <br>
 
+## December 25 2020
+```
+"You need to check up on your strong friend
+The one with strength that's never gon' end
+The one with sense, take care of several grown men
+Pay they rent and then they trade on him"
+
+- Royce Da 5'9
+```
+<br>
+
 ## December 18 2020
 ```
 "Scared to see my daughter now because I'm lost in the life
