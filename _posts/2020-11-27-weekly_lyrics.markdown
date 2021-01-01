@@ -13,9 +13,11 @@ For years music has been where I turned to for answers when life was difficult o
 ## January 1 2021
 
 ```
-"Insane how some angels hang themselves with their own halo
-That's why I lay low"
-- MGK
+"I used to stay out later on purpose
+Subconsciously I was nervous that if I came home early then what would surface was her inner demons
+And then I'd have to end up seein' my hero on ground zero"
+- J Cole
+
 ```
 <br>
 
