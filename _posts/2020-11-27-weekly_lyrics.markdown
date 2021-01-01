@@ -17,7 +17,6 @@ For years music has been where I turned to for answers when life was difficult o
 Subconsciously I was nervous that if I came home early then what would surface was her inner demons
 And then I'd have to end up seein' my hero on ground zero"
 - J Cole
-
 ```
 <br>
 
