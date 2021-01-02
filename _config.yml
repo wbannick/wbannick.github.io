@@ -26,6 +26,7 @@ description: >-
 baseurl: "" 
 url: "https://wbannick.github.io" 
 github_username:  wbannick
+keywords: "Will Bannick"
 
 plugins:
   - jekyll-sitemap
