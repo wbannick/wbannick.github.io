@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: William Bannick
-author: William Bannick
+author: William Bannicka
 email: will.bannick@gmail.com
 description: >- 
   I am Data Scientst who is interested in using data to combat inequalities and promote better policy.
 baseurl: "" 
 url: "https://wbannick.github.io" 
 github_username:  wbannick
-keywords: "Will Bannick"
+
 
 plugins:
   - jekyll-sitemap
