@@ -10,7 +10,7 @@ layout: default-pic
 
 All views on this site are my own.
 
-My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I love California and it will always be home. I currently live in the beautiful Washington DC. I am happily employed as Senior Data Scientist at YouGov.
+My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I love California and it will always be home. I currently live in the beautiful Washington DC. I am happily employed as a Senior Data Scientist at YouGov.
 
 I aspire to leverage data science tools and skills to create change. Systems and policies in this country have bred inequality, and data science itself has been used to target people in damaging and discriminatory ways. But I also believe that data science tools and skillsets can be used to fight back and promote better policy.
 
