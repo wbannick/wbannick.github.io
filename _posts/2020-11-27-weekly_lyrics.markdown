@@ -7,7 +7,7 @@ tags: lyrics
 permalink: /posts/weekly_lyrics/
 ---
 
-For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple bars that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
+For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple lines that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
 <br>
 
 ## January 01 2021
