@@ -7,8 +7,17 @@ tags: lyrics
 permalink: /posts/weekly_lyrics/
 ---
 
-For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple lines that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
+For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple lines that have stuck out to me to this page. Some weeks I may instead post the name of a song that I couldn't stop playing recently. I hope that people reading this can find meaning in these lyrics too.
 <br>
+
+## January 16 2021
+```
+"I hide behind a smile while my mind is runnin' wild
+Nervous for no reason, heart beatin' like a mile a minute
+Where's the nearest bathroom? I'm in it
+Splash some water on my face, wipe it dry, let's get it"
+- Joell Ortiz
+```
 
 ## January 01 2021
 
