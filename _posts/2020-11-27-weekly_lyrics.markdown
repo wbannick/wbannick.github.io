@@ -7,10 +7,19 @@ tags: lyrics
 permalink: /posts/weekly_lyrics/
 ---
 
-For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple lines that have stuck out to me to this page. Some weeks I may instead post the name of a song that I couldn't stop playing recently. I hope that people reading this can find meaning in these lyrics too.
+For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple lines that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
+
+Some weeks I will also add some "songs of the week." Such songs represent one or two of the songs that I found myself playing on repeat around the time of the post.
 <br>
 
+
 ## January 16 2021
+#### Songs of the week:
+TUNDAH FIYAH - Tobe Nwigwe ft. Nell & Mumu Fresh <br>
+Anxiety - Joell Ortiz
+
+#### Weekly Lyrics:
+
 ```
 "I hide behind a smile while my mind is runnin' wild
 Nervous for no reason, heart beatin' like a mile a minute
