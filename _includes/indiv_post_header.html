@@ -1,0 +1,17 @@
+<header>
+    <h1><a href="{{ "/"}}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+    <img src={{ page.image }} alt= {{ page.image_title }} width = 100% />
+            
+    <p>{{ page.image_desc }}</p>
+    
+    <nav>
+        <a href="/">Home</a> |
+        <a href="/posts/">Posts</a> |
+        <a href="/resume/">Resume</a>
+    </nav>
+    <div class="email">
+        <a href="mailto:{{ site.email }}"><small>{{ site.email }}</small></a>
+    </div>
+
+</header>

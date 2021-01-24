@@ -1,10 +1,13 @@
 ---
-layout: weekly_lyric_post
+layout: indiv_post
 title:  "Weekly Lyrics"
 date:   2020-11-27
 author: William Bannick
 tags: lyrics
 permalink: /posts/weekly_lyrics/
+image: "../../../assets/img/music.jpg"
+image_title: Weekly Lyrics
+image_desc: "I find meaning in music, particularly in hip hop. Every week, I will post a couple of my favorite lines."
 ---
 
 For years music has been where I turned to for answers when life was difficult or confusing to me. Each week, I plan on adding a couple lines that have stuck out to me to this page. I hope that people reading this can find meaning in these lyrics too.
