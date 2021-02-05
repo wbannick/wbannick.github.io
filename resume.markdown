@@ -46,12 +46,12 @@ title: "Resume"
 # COMMUNITY ENGAGEMENT AND LEADERSHIP
 
 ## Kids With Dreams (2013-2017)
-- Vice President and Board Member of club facilitating programs for people with disabilities
+- Vice President and Board Member of club facilitating programs for neurodiverse people and people with disabilities
 - Founder and President of KWD Basketball Program 
-- Buddy for children and young adults with disabilities
+- Buddy for neurodiverse young adults
 
 ## Saratoga Federated Church (2007-2019)
-- Buddy for children and young adults with disabilities among other roles
+- Buddy for neurodiverse children and young adults among other roles
 
 ## Men and Youth Teaching Each Other (2014-2015)
 - Mentor for middle school boys in East Palo Alto, CA
