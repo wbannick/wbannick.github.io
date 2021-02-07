@@ -54,7 +54,7 @@ _Class of 2017_
 - Experienced with SQL, HTML, CSS, C++, C,  Java, Shiny, and QGIS
 - Experienced with AWS tools, creating APIs and interacting with databases
 
-# COMMUNITY ENGAGEMENT
+# COMMUNITY ENGAGEMENT AND LEADERSHIP
 
 ## Kids With Dreams, Vice President, Founder KWD Basketball Program
 _2013-2017_
