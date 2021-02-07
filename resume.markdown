@@ -46,7 +46,7 @@ _Class of 2017_
 - Coursework on topics: Comparative Politics, Political Institutions, Political Behavior, Research Design, Machine Learning, Data Science, Programming Abstractions, State Building and Development, Democracy, International Relations, Middle Eastern, African, and Latin American Politics and History
 - Studied abroad in Cape Town, South Africa
 
-# RELEVANT SKILLS
+# SKILLS
 
 - Proficient in R, Python, Github, Travis, the tidyverse, pandas, sf, ggplot2, and RMarkdown
 - Proficient with data management, data cleaning, data analysis, data visualization, web-scraping, and pdf scraping
