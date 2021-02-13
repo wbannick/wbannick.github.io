@@ -68,7 +68,7 @@ _2007-2019_
 
 ## Men and Youth Teaching Each Other, Mentor
 _2014-2015_
-- Mentor for middle school boys in East Palo Alto, CA
+- Mentor for middle school boys
 
 ## Night to Shine, Volunteer
 _2016-2019_
