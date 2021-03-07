@@ -36,8 +36,8 @@ Overall, I deeply enjoyed this series, and recommend it to new and old comic boo
 <b>Superb Volumes 1-4</b> <br>
 <b>Written by:</b> <i>David F. Walker, Sheena C. Howard</i> <br>
 <b>Penciled by:</b> <i>Ray-Anthony Height, Alitha Martinez, John Livesay</i> <br>
-<b>Inked by:</b>: <i>Ray-Anthony Height, Alitha Martinez, Le Beau L. Underwood, David Cabeza</i>
-<b>Colored by:</b>: <i>Veronica Gandini, Sotocolor, DC Alonso, Maartha Laiho</i>
+<b>Inked by:</b>: <i>Ray-Anthony Height, Alitha Martinez, Le Beau L. Underwood, David Cabeza</i> <br>
+<b>Colored by:</b>: <i>Veronica Gandini, Sotocolor, DC Alonso, Maartha Laiho</i> <br>
 <b>Lettered by:</b>: <i>AW’s Tom Napolitano</i>
 
 Superb is an exciting series that reads like an all ages X-Men run with a more inclusive cast. The book follows a group of teens navigating a frightening reality where teenagers with superpowers are being hunted by a shadowy corporation. They are attempting to avoid capture at the hands of their adversary while also coordinating missions to liberate other kids. The art in the book is consistently strong, and I believe the character designs help draw the reader further into the world.
