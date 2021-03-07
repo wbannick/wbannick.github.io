@@ -30,3 +30,26 @@ I found volumes two and three to be the peak of the series. I certainly enjoyed 
 
 Overall, I deeply enjoyed this series, and recommend it to new and old comic book readers alike. 
 
+<small><i>Review written January 23 2021</i></small>
+
+## Superb
+<b>Superb Volumes 1-4</b> <br>
+<b>Written by:</b> <i>David F. Walker, Sheena C. Howard</i> <br>
+<b>Penciled by:</b> <i>Ray-Anthony Height, Alitha Martinez, John Livesay</i> <br>
+<b>Inked by:</b>: <i>Ray-Anthony Height, Alitha Martinez, Le Beau L. Underwood, David Cabeza</i>
+<b>Colored by:</b>: <i>Veronica Gandini, Sotocolor, DC Alonso, Maartha Laiho</i>
+<b>Lettered by:</b>: <i>AW’s Tom Napolitano</i>
+
+Superb is an exciting series that reads like an all ages X-Men run with a more inclusive cast. The book follows a group of teens navigating a frightening reality where teenagers with superpowers are being hunted by a shadowy corporation. They are attempting to avoid capture at the hands of their adversary while also coordinating missions to liberate other kids. The art in the book is consistently strong, and I believe the character designs help draw the reader further into the world.
+
+The central protagonist, Jonah, is a teenager with down syndrome. Representation of neurodiverse characters and characters with disabilities is important and rare in mainstream media. Even when narratives include neurodiverse characters and/or characters with disabilities, they often position them as supporting characters seen through the eyes of neurotypical characters and used as devices for the character development of others. Other narratives will situate a neurodiverse character as a protagonist, but assign them one-dimensional stereotypes. In these media, neurodiverse characters are depicted as naive and happy and/or reduced to savant characteristics instead of being afforded a complex human personality.
+
+I think this book escapes the pitfalls of these problematic portrayals. To me, Jonah comes across as a multidimensional point of view character that helps draw the reader into the world the comic creates and the story it is telling. 
+
+The series also boasts a dynamic and inclusive ensemble cast of teens of different races, genders, and sexualities woven together in a way that reflects our world much more realistically than many other superhero comics I read. This is a critically important minimum standard that all media we consume should meet, but so often fails to.
+
+While I enjoyed reading this run in my early twenties, I believe it is geared towards teenagers, and it may have less appeal for older audiences. The plot can also feel a little cyclical at times. And for those who have already engaged with a dearth of stories about superpowered teens on the run from entities trying to use their powers to achieve dubious goals, this series will likely not offer a very divergent take on the themes and arcs you are accustomed to. 
+
+As is probably evident from its inclusion on this list, I recommend this series! I genuinely enjoyed it, and found it engaging, affirming, inclusive, and a quick read.  I wish the series had continued longer. There was more story to tell, and I enjoyed the world, characters, and relationships it introduced me to.
+
+<small><i>Review written March 6 2021</i></small>
