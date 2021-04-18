@@ -1,0 +1,41 @@
+---
+layout: indiv_post
+title: "willbprocessed Example Dashboard"
+date:   2021-01-23
+author: William Bannick
+tags: comics
+permalink: /posts/willbprocessed_dashboard/
+image: "../../../assets/img/comics.jpg"
+image_title: Comic Book Series
+image_desc: "I am an avid comic book reader. I will periodically post breif reviews for some of my favorite series."
+runtime: shiny
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(viridis)
+library(willbprocessed)
+```
+
+## Visualize Colors
+
+```{r visualize_colors, echo=FALSE}
+
+
+inputPanel(
+  selectInput("pal", label = "Color Palette:",
+              choices = c("viridis", "inferno", "magma", "plasma"), 
+              selected = "viridis"),
+  
+  sliderInput("num_colors", label = "Number of Colors:",
+              min = 1, max = 10, value = 5, step = 1)
+)
+
+renderPlot({
+  pal <- do.call(input$pal, list(input$num_colors))
+  willbprocessed::visualize_colors(pal)
+})
+```
+
+
