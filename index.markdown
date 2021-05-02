@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default-pic
 
@@ -10,7 +8,7 @@ layout: default-pic
 
 All views on this site are my own.
 
-My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I love California and it will always be home. I currently live in the beautiful Washington DC. I am happily employed as a Senior Data Scientist at YouGov.
+My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I love California and it will always be home but I currently live in the beautiful Washington DC. I am employed as a Senior Data Scientist at YouGov.
 
 I aspire to leverage data science tools and skills to create change. Systems and policies in this country have bred inequality, and data science itself has been used to target people in damaging and discriminatory ways. But I also believe that data science tools and skillsets can be used to fight back and promote better policy.
 
@@ -18,4 +16,4 @@ I am passionate about racial equity, government accountability, disability right
 
 I am a life-long nerd. I could talk for hours about comic books or Star Wars. I also enjoy listening to hip hop, weight training, and _playing_ sports. My professional sports knowledge is out of date by about 10-15 years, but I love playing pick-up basketball, football, and frisbee (when there is no pandemic happening). And, I am striving to become a more versatile dunker.
 
-My personal relationships are very important to me. I am always working to become a better person, a better friend, a better partner, and a better family member. I try to confront my privilege and mental health to continue to grow as person.
+My personal relationships are very important to me. I am working to become a better person, a better friend, a better partner, and a better family member. I try to confront my privilege and mental health to continue to grow as person.
