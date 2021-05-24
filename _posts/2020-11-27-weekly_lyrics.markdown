@@ -5,7 +5,7 @@ date:   2020-11-27
 author: William Bannick
 tags: lyrics
 permalink: /posts/weekly_lyrics/
-image: "../../../assets/img/music.jpg"
+image: "../../../assets/img/microphone.jpg"
 image_title: Weekly Lyrics
 image_desc: "I find meaning in music, particularly in hip hop. Every week, I will post a couple of my favorite lines."
 ---

@@ -5,7 +5,7 @@ date:   2021-01-23
 author: William Bannick
 tags: comics
 permalink: /posts/comic_series/
-image: "../../../assets/img/comics.jpg"
+image: "../../../assets/img/bhammer.jpg"
 image_title: Comic Book Series
 image_desc: "I am an avid comic book reader. I will periodically post breif reviews for some of my favorite series."
 ---
