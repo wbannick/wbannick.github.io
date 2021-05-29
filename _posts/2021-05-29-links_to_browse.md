@@ -4,7 +4,7 @@ title:  "Links to Browse"
 date:   2021-05-29
 author: William Bannick
 permalink: /posts/links/
-image: "../../../assets/img/surf_web2.png"
+image: "../../../assets/img/surf_web3.png"
 image_title: Links
 image_desc: "A page with some links to other exciting projects that relate to the topics I like to talk about."
 ---
