@@ -21,7 +21,6 @@ One of the underlying conditions that propagates these issues is a lack of diver
  
 I hope those of us in technology more critically reflect on our biases as well as the biases built into the systems we are contributing to. And for those of us white people in tech in particular, I hope we critically question our impacts on the world around us both in the tools we create and the impact of the unequal salaries that the technology industry generates in the communities where we live. These reflections must lead to us working to change the problematic systems and structures we are a part of.
 
-
 <i>Written June 6 2021</i>
  
 
