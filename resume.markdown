@@ -13,10 +13,10 @@ _Data Scientist September 2017 - March 2019_
 - Leveraged spatial data in R using the sf package
 - Managed survey projects with Innovations team and with YouGov Blue
 - Created, ran, and analyzed criminal justice reform/reimagining survey project
-- Served as line manager for a full time direct report and managed contractors and two cycles of interns
+- Served as line manager for a full time direct report and managed contractors and three cycles of interns
 - Coordinated projects with teams in different countries
 - Programmed surveys; cleaned, weighted and delivered survey data
-- Managed 2018 and 2016 Election Data Projects; Scraped election night data
+- Managed 2020, 2018, and 2016 Election Data Projects; Scraped election night data
 
 ## The Ghana Center For Democratic Development, Research Intern
 _Summer 2016_
@@ -65,6 +65,11 @@ _2013-2017_
 ## Saratoga Federated Church, Buddy
 _2007-2019_
 - Buddy for neurodiverse children and young adults among other roles
+
+## Data Kind, DataDive Volunteer
+_2021_
+- DataDive volunteer at September 2021 DataDive
+- Created an interactive map to visualize house loss in Miami-Dade County
 
 ## Men and Youth Teaching Each Other, Mentor
 _2014-2015_
