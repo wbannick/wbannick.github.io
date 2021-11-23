@@ -4,8 +4,12 @@ title: "Resume"
 ---
 
 # PROFESSIONAL EXPERIENCE
+
+## Politech, Lead Data Scientist
+_November 2021 - Present_
+
 ## YouGov, Senior Data Scientist
-_Senior Data Scientist April 2019 - Present_
+_Senior Data Scientist April 2019 - November 2021_
 
 _Data Scientist September 2017 - March 2019_
 - Created models, analysis, and data visualizations in R with tools including tidyverse, broom, ggplot2, Shiny, and RMarkdown
