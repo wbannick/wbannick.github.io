@@ -6,7 +6,7 @@ layout: default-pic
 
 # Hello!
 
-My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I spent the last couple of years in the beautiful Washington DC, but I have recently moved to Los Angeles. I am employed as a Lead Data Scientist at Politech.
+My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I spent the last couple of years in the beautiful Washington DC, but I have recently moved to Los Angeles. I am employed as the Lead Data Scientist at Politech.
 
 I aspire to leverage data science tools and skills to create change. Systems and policies in this country have bred inequality, and data science itself has been used to target people in damaging and discriminatory ways. But I also believe that data science tools and strategies can be used to fight back and promote better policy.
 
