@@ -9,6 +9,11 @@ title: "Resume"
 _November 2021 - Present_
 
 ## YouGov, Senior Data Scientist
+
+_Volunteer November 2021 - Present_
+
+- Continued to work on inclusive Gender question project that I started early in my YouGov career
+
 _Senior Data Scientist April 2019 - November 2021_
 
 _Data Scientist September 2017 - March 2019_
@@ -16,8 +21,9 @@ _Data Scientist September 2017 - March 2019_
 - Built R and Python packages and a REST API using Python, github, and an Amazon API Gateway
 - Leveraged spatial data in R using the sf package
 - Managed survey projects with Innovations team and with YouGov Blue
+- Created an inclusive gender question project where I worked with teammates to facilitate the adoption of an inclusive gender question
 - Created, ran, and analyzed criminal justice reform/reimagining survey project
-- Served as line manager for a full time direct report and managed contractors and three cycles of interns
+- Served as line manager for a full time direct report and managed seven contractors and three cycles of interns
 - Coordinated projects with teams in different countries
 - Programmed surveys; cleaned, weighted and delivered survey data
 - Managed 2020, 2018, and 2016 Election Data Projects; Scraped election night data
