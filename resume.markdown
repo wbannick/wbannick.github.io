@@ -12,7 +12,7 @@ _November 2021 - Present_
 
 _Volunteer November 2021 - Present_
 
-- Continued to work on inclusive Gender question project that I started early in my YouGov career
+- Continued to work on inclusive gender question project that I started early in my YouGov career
 
 _Senior Data Scientist April 2019 - November 2021_
 
