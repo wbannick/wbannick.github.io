@@ -7,6 +7,9 @@ title: "Resume"
 
 ## Politech, Lead Data Scientist
 _November 2021 - Present_
+- Developed reporting for the Blocks web platform, principally using Elixir/Ecto
+- Managed and updated geopolitical database with spatial data to reflect recent redistricting
+- Created R package for interacting with our systems to clean, process, and prepare our data for analysis
 
 ## YouGov, Senior Data Scientist
 
@@ -58,10 +61,10 @@ _Class of 2017_
 
 # SKILLS
 
-- Proficient in R, Python, Github, Travis, the tidyverse, pandas, sf, ggplot2, and RMarkdown
-- Proficient with data management, data cleaning, data analysis, data visualization, web-scraping, and pdf scraping
+- Proficient in R, Python, Elixir, Ecto, SQL, Github, the tidyverse, pandas, shiny applications, sf, ggplot2, and RMarkdown
+- Proficient with data management, data cleaning, data analysis, machine learning, data visualization, web-scraping, and pdf scraping
 - Experienced with Census data and voter file data 
-- Experienced with SQL, HTML, CSS, C++, C,  Java, Shiny, and QGIS
+- Experienced with HTML, Javascript, Ruby, CSS, C++, C, Java, Octave, and QGIS
 - Experienced with AWS tools, creating APIs and interacting with databases
 
 # COMMUNITY ENGAGEMENT AND LEADERSHIP
