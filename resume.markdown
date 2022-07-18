@@ -69,20 +69,24 @@ _Class of 2017_
 
 # COMMUNITY ENGAGEMENT AND LEADERSHIP
 
-## Kids With Dreams, Vice President, Founder KWD Basketball Program
-_2013-2017_
-- Vice President and Board Member of club facilitating programs for neurodiverse people and  people with disabilities
-- Founder and President of KWD Basketball Program 
-- Buddy for neurodiverse adults
-
-## Saratoga Federated Church, Buddy
-_2007-2019_
-- Buddy for neurodiverse children and young adults among other roles
+## KEEN, Coach
+_2022_
+- Volunteered as Basketball coach as part of a basketball program geared towards athletes with disabilities
 
 ## Data Kind, DataDive Volunteer
 _2021_
 - DataDive volunteer at September 2021 DataDive
 - Created an interactive map to visualize house loss in Miami-Dade County
+
+## Saratoga Federated Church, Buddy
+_2007-2019_
+- Buddy for neurodiverse children and young adults among other roles
+
+## Kids With Dreams, Vice President, Founder KWD Basketball Program
+_2013-2017_
+- Vice President and Board Member of club facilitating programs for neurodiverse people and  people with disabilities
+- Founder and President of KWD Basketball Program 
+- Buddy for neurodiverse adults
 
 ## Men and Youth Teaching Each Other, Mentor
 _2014-2015_
