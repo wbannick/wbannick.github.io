@@ -73,6 +73,10 @@ _Class of 2017_
 _2022_
 - Volunteered as Basketball coach as part of a basketball program geared towards athletes with disabilities
 
+## Polygence, Mentor
+_2022_
+- Mentored a high school project as they worked on a data driven research project
+
 ## Data Kind, DataDive Volunteer
 _2021_
 - DataDive volunteer at September 2021 DataDive
