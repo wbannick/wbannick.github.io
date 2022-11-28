@@ -71,7 +71,7 @@ _Class of 2017_
 
 ## KEEN, Coach
 _2022_
-- Volunteered as Basketball coach as part of a basketball program geared towards athletes with disabilities
+- Coached athletes with disabilities in basketball and tennis
 
 ## Polygence, Mentor
 _2022_
