@@ -9,7 +9,8 @@ title: "Resume"
 _November 2021 - Present_
 - Developed and refactored reporting for the Blocks web app; principally used Elixir/Ecto
 - Contributed new features and maintained existing features for the Blocks web app. Worked mainly on the back-end, but also contributed to the front-end.
-- Managed and updated geopolitical database with spatial data to reflect redistricting in the leadup to 2022 elections
+- Managed and updated geopolitical database with spatial data to reflect redistricting
+- Created and maintained district matching API
 - Created R package for interacting with our systems to clean, process, and prepare our data for analysis
 
 ## YouGov, Senior Data Scientist
@@ -69,8 +70,8 @@ _Class of 2017_
 # COMMUNITY ENGAGEMENT AND LEADERSHIP
 
 ## KEEN, Coach
-_2022_
-- Coached athletes with disabilities in basketball and tennis
+_2022 - Present_
+- Coached athletes with disabilities in basketball, tennis, swimming and dance
 
 ## Polygence, Mentor
 _2022_
@@ -82,19 +83,19 @@ September 2021 and December 2022
 - Cleaned spatial data and created an interactive map to visualize food prices in Kenya on a project for Save The Children
 
 ## Saratoga Federated Church, Buddy
-_2007-2019_
+_2007 - 2019_
 - Buddy for neurodiverse children and young adults among other roles
 
 ## Kids With Dreams, Vice President, Founder KWD Basketball Program
-_2013-2017_
+_2013 - 2017_
 - Vice President and Board Member of club facilitating programs for neurodiverse people and  people with disabilities
 - Founder and President of KWD Basketball Program 
 - Buddy for neurodiverse adults
 
 ## Men and Youth Teaching Each Other, Mentor
-_2014-2015_
+_2014 - 2015_
 - Mentor for middle school boys
 
 ## Night to Shine, Volunteer
-_2016-2019_
+_2016 - 2019_
 - Volunteer at four annual proms put on for neurodiverse young adults.
