@@ -5,12 +5,16 @@ title: "Resume"
 
 # PROFESSIONAL EXPERIENCE
 
-## Politech, Lead Data Scientist
-_November 2021 - Present_
+## Politech, Lead Data Scientist/Software Engineer
+
+_Lead Data Scientist/Software Engineer November 2021 - November 2023_
+
+_Lead Data Scientist November 2021 - November 2023_
 - Developed and refactored reporting for the Blocks web app; principally used Elixir/Ecto
 - Contributed new features and maintained existing features for the Blocks web app. Worked mainly on the back-end, but also contributed to the front-end.
 - Managed and updated geopolitical database with spatial data to reflect redistricting
 - Created and maintained district matching API
+- Integrated district and voter-file matching APIs into Blocks web app
 - Created R package for interacting with our systems to clean, process, and prepare our data for analysis
 
 ## YouGov, Senior Data Scientist
@@ -60,10 +64,9 @@ _Class of 2017_
 
 # SKILLS
 
-- Proficient in R, Python, Elixir, Ecto, PostrgreSQL, Github, the tidyverse, pandas, shiny applications, sf, ggplot2, RMarkdown, Javascript, and React
-- Proficient with data management, data cleaning, data analysis, machine learning, data visualization, web-scraping, pdf scraping, reporting, and software engineering
-- Experienced with full stack development, partiularly on the back-end
-- Experienced with Census data and voter file data 
+- Proficient in R, Python, Elixir, Ecto, PostrgreSQL, Github, the tidyverse, pandas, shiny applications, sf, ggplot2, RMarkdown, and Javascript
+- Proficient with data management, data cleaning, data dashboards, data analysis, machine learning, data visualization, web-scraping, pdf scraping, reporting, software engineering, and full stack development
+- Experienced with spatial data, census data, and voter-file data 
 - Experienced with HTML, Ruby, CSS, C++, C, Java, Octave, and QGIS
 - Experienced with AWS tools, creating APIs and interacting with databases
 
