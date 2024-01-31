@@ -7,7 +7,7 @@ title: "Resume"
 
 ## Politech, Lead Data Scientist/Software Engineer
 
-_Lead Data Scientist/Software Engineer November 2021 - November 2023_
+_Lead Data Scientist/Software Engineer November 2023 - Present_
 
 _Lead Data Scientist November 2021 - November 2023_
 - Developed and refactored reporting for the Blocks web app; principally used Elixir/Ecto
