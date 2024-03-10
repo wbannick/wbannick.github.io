@@ -6,7 +6,9 @@ layout: default-pic
 
 # Hello!
 
-**I am horrified by the ongoing massacre of Palestinians in Gaza. There must be a ceasefire now. Please get involved. For example, you can [contact your representatives](https://actionnetwork.org/letters/tell-congress-ceasefire-now?source=direct_link&) to urge them to push for a ceasefire. And, if you have the means, please consider donating to [organizations administering badly needed aid to Gaza](https://www.unrwausa.org/donate) and to organizations mobilizing for a ceasefire, including organizations mobilizing folks in your local area.**
+**I am horrified by the ongoing massacre of Palestinians in Gaza. There must be an immediate and permanent ceasefire. Palestinians deserve freedom and justice in the face of these mass murders and in the context of years of systematic oppression.**
+
+**The killing has been facillitated and enabled by the American government. Please get involved. For example, you can [contact your representatives](https://actionnetwork.org/letters/tell-congress-ceasefire-now?source=direct_link&) to urge them to push for a ceasefire. And, if you have the means, please consider donating to organizations helping Palestinians in Gaza and the West Bank as well as to organizations mobilizing for a ceasefire.**
 
 My name is William Bannick. I use he/him pronouns. I am from California. More specifically, I grew up in the Central Coast/Bay Area. I have lived in Santa Cruz County, Santa Clara County, and San Mateo County. I spent the last couple of years in the beautiful Washington DC, but I have recently moved to Los Angeles. I am employed as the Lead Data Scientist and a Software Engineer at Politech.
 
